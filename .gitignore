@@ -9,4 +9,6 @@ journal.db
 backend/journal.db
 assets/demo.gif
 assets/*.gif
-assets/*.mp4
+assets/*.mp4.DS_Store
+.DS_Store
+journal.db
