@@ -1,1 +1,8 @@
-.venv
+.venv/
+__pycache__/
+*.pyc
+*.pth
+journal.db
+.env
+*.bin
+*.gguf
