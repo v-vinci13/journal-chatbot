@@ -7,3 +7,6 @@ journal.db
 *.bin
 *.gguf
 backend/journal.db
+assets/demo.gif
+assets/*.gif
+assets/*.mp4
