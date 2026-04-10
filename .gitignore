@@ -6,3 +6,4 @@ journal.db
 .env
 *.bin
 *.gguf
+backend/journal.db
