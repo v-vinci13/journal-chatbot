@@ -19,7 +19,11 @@
 </p>
 
 <p align="center">
-  <img src="./assets/demo.gif" alt="ReflectAI Demo" width="750" />
+  <a href="https://www.youtube.com/watch?v=I2FHViRYo7E" target="_blank">
+    <img src="https://img.youtube.com/vi/I2FHViRYo7E/maxresdefault.jpg" alt="ReflectAI Demo" width="750" />
+  </a>
+  <br/>
+  <a href="https://www.youtube.com/watch?v=I2FHViRYo7E">▶ Watch Demo on YouTube</a>
 </p>
 
 ---
